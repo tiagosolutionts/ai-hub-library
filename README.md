@@ -15,6 +15,6 @@ Este repositório distribui **somente** skills, scripts, prompts e pacotes ZIP c
 
 ## Replica Skill
 
-Projeto original de Jake Schincariol: [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill). Consulte [`skills/replica-skill/`](skills/replica-skill/) para documentação. **O código original ainda não foi copiado.**
+Projeto original de Jake Schincariol: [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill). Consulte [`skills/replica-skill/`](skills/replica-skill/) para documentação. **Código original copiado:** [39 arquivos, 11 skills, licença MIT](skills/replica-skill/upstream/).
 
 Cada material preserva sua licença própria. Não publique dados privados, credenciais nem materiais Manus pendentes de revisão.

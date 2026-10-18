@@ -12,4 +12,4 @@ Pacote de 11 skills para mapear, planejar, construir, testar e lançar uma imple
 /plugin install replica-skill@replica-skill
 ```
 
-Esta pasta contém apenas referência e documentação; **não** é um clone do código do projeto original.
+**Cópia do código:** [`upstream/`](upstream/) — 39 arquivos, incluindo as 11 skills, scripts, testes e o arquivo [`LICENSE`](upstream/LICENSE). Licença MIT, copyright © 2026 Jake Schincariol. Esta cópia não é um fork GitHub nem garante sincronização automática com o projeto original.

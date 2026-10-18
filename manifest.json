@@ -1,0 +1,14 @@
+{
+  "project": "AI Hub Library",
+  "visibility": "public",
+  "repository": "tiagosolutionts/ai-hub-library",
+  "resources": [
+    {
+      "name": "Replica Skill",
+      "source": "https://github.com/Jakeschincariol/replica-skill",
+      "distribution": "reference-only",
+      "code_copied": false
+    }
+  ],
+  "private_manus_package_published": false
+}

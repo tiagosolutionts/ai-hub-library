@@ -6,8 +6,10 @@
     {
       "name": "Replica Skill",
       "source": "https://github.com/Jakeschincariol/replica-skill",
-      "distribution": "reference-only",
-      "code_copied": false
+      "distribution": "mit-source-copy",
+      "code_copied": true,
+      "source_files": 39,
+      "source_path": "skills/replica-skill/upstream/"
     }
   ],
   "private_manus_package_published": false
